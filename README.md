@@ -6,10 +6,10 @@ a list of what to do pre and post Open Training.
  - More practise on documentation (github & wikifab).
  - Brainstorming on ASKsmArt.
 ### Post OT
- - foot path motion detector.
- - weekly training on the ASKotec.
- - finance management training. 
+ - Foot path motion detector.
+ - Weekly training on the ASKotec.
+ - Finance management training. 
  - More Arduino programing.
  - Advanced finishing on solar charger ie casing and portability.
- - documenting workshop projects (completed project).
- - developing ASKsmArt.
+ - Documenting workshop projects (completed project).
+ - Developing ASKsmArt.
